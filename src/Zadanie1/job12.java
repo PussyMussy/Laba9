@@ -1,3 +1,5 @@
+package Zadanie1;
+
 public class job12 {
     public class Main {
         public static void m(String str, double chislo) {

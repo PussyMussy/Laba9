@@ -1,3 +1,5 @@
+package Zadanie1;
+
 public class job10 {
     public class Main {
         public static int m() {

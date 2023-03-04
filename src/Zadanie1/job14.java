@@ -1,3 +1,5 @@
+package Zadanie1;
+
 public class job14 {
     public class Main {
         public static void m(int x) throws ArithmeticException {

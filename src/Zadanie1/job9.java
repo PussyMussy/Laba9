@@ -1,3 +1,4 @@
+package Zadanie1;
 
 public class job9 {
     public class Main {

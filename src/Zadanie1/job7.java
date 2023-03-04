@@ -1,3 +1,5 @@
+package Zadanie1;
+
 public class job7 {
     public static void main(String[] args) {
         try {

@@ -1,3 +1,5 @@
+package Zadanie1;
+
 public class job11 {
     public class Main {
         public static void main(String[] args) {
